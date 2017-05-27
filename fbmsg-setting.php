@@ -164,5 +164,5 @@ $fbmsg_pos       =  esc_attr(get_option('fbmsg_pos'));
     </p>
     </form>
     <hr>
-    <b>Feel free and thanxs to try, powered by <a href="https://variousnetworks.com/">iCOREframeworks </a>.</b>
+    <b>Feel free and thanxs to try, powered by <a href="https://variousnetwork.com/">iCOREframeworks </a>.</b>
 </div>
