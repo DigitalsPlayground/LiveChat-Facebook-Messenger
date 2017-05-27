@@ -1,6 +1,6 @@
 === LiveChat Facebook Messenger ===
 Contributors: iCOREframeworks
-Tags: Facebook, facebook chat, facebook fan box, Facebook help desk, facebook like box, facebook live chat, facebook live chat for business, Facebook Message, facebook messenger, facebook messenger live chat, facebook send message, facebook support, facebook support widget, free chat, free live chat, live chat, live chat support, live help, live support, messenger, Messenger chat, Messenger Customer Service, messenger live chat
+URI: http://variousnetwork.com
 Requires at least: 4.5.x
 Tested up to: 4.7.x
 Stable tag: 1.2
