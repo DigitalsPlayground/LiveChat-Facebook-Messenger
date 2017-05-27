@@ -9,7 +9,7 @@ Live chat with your website users using Facebook Messenger.
 
 == Description ==
 
-Responsive and powerful live chat on your website using <strong>Facebook Messenger</strong>.
+Responsive and powerful live chat on your website using Facebook Messenger.
 
 Online demo: http://anissahijab.com
 Feel free to try our services
