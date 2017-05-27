@@ -1,6 +1,7 @@
 === LiveChat Facebook Messenger ===
 Contributors: iCOREframeworks
 URI: http://variousnetwork.com
+Oauth URI: https://github.com/VariousNetwork/LiveChat-Facebook-Messenger
 Requires at least: 4.5.x
 Tested up to: 4.7.x
 Stable tag: 1.2
