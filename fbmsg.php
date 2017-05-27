@@ -2,6 +2,7 @@
 /*
 Plugin Name: LiveChat Facebook Messenger
 Plugin URI: http://variousnetwork.com/
+Oauth URI: https://github.com/VariousNetwork/LiveChat-Facebook-Messenger
 Description: Live chat with your website users right using Facebook Messenger.
 Author: iCOREframeworks <info@variousnetwork.com>
 Version: 2.2.1
